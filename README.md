@@ -1,6 +1,6 @@
 # Data Trends on imDB dataset from 1960 - 2016
 
-## Project: Investigate the FBI Gun Dataset
+## Project: Investigate the IMDB dataset
 
 ### Introduction
 
