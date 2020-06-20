@@ -21,11 +21,6 @@ It will be recommend to installing Anaconda, which comes with all of the necessa
 In this project, we have to go through the data analysis process and see how everything fits together.
 I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
 
-![alt text](https://images.pexels.com/photos/1260563/pexels-photo-1260563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-
-
-(Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
-
 | Table of Contents |
 | :--- |
 | <a href='#Prerequisites'> Prerequisites </a> 🔍📜 | 
@@ -167,10 +162,6 @@ This will open the Jupyter/iPython Notebook software and project file/folder in 
 
 #### Evaluation
 My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/projects/3176718735/rubric" target="_blank">Investigating a Dataset rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
-
-#### Results
-[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/989156)
-
 
 <a id='License'></a>
 
